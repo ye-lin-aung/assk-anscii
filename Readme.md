@@ -8,9 +8,9 @@ It is better if you zoom out and see.
 
 ## Images
 
-For black backgrounds - [Link](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk.txt)
+For white backgrounds - [Link](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk.txt)
 
-For white backgrounds - [Link](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black.txt)
+For black backgrounds - [Link](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black.txt)
 
 ## Terminal 
 
