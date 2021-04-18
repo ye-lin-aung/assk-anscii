@@ -19,3 +19,14 @@ For terminal please use assk-black.txt which is better for dark backgrounds.
 ```bash 
 curl https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black.txt
 ````
+
+### Original 
+![Original](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/original.jpg "Original")
+
+### White Background
+![White](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/white.jpg "White")
+
+### Black Background
+![Black](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/black.jpg "Black")
+
+
