@@ -4,3 +4,8 @@
 
 [ANSCII Link](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk.txt)
 It is better if you zoom out and see.
+
+Terminal 
+```bash 
+curl https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk.txt
+````
