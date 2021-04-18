@@ -6,6 +6,7 @@
 It is better if you zoom out and see.
 
 Terminal 
+For terminal please use assk-black.txt which is better for dark backgrounds. 
 ```bash 
 curl https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black.txt
 ````
