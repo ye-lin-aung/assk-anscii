@@ -14,12 +14,7 @@ fn main() {
     println!("dimensions {:?}", image.dimensions());
 
     let gray_image = image.grayscale();
-
-    match gray_image.save("gray_assk.png") {
-        Ok(image) => println!("Image saved"),
-        Err(error) => panic!("Problem reading gray scaled image: {:?}", error)
-    };
-
+	
     let gray_image = gray_image.resize(gray_image.width() / 5 , gray_image.height() / 5, FilterType::Nearest);
 
 
