@@ -27,6 +27,6 @@ curl https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black
 ![White](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/white.jpg "White")
 
 ### Black Background
-![Black](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/black.jpg "Black")
+![Black](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/black.png "Black")
 
 
