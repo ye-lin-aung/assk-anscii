@@ -14,12 +14,15 @@ fn main() {
     println!("dimensions {:?}", image.dimensions());
 
     let gray_image = image.grayscale();
-	
+
     let gray_image = gray_image.resize(gray_image.width() / 5 , gray_image.height() / 5, FilterType::Nearest);
 
 
-    //let character_set: [&str; 12] = [" ", "'", ",", ".", ":", ";", ".", "L", "O", "0", "#", "@"];
-    let character_set : [&str; 12] = ["@", "#", "0" , "O", "L", ".", ";", ":", ".", ",", "'", " "];
+    // Black focus
+    let character_set: [&str; 12] = [" ", "'", ",", ".", ":", ";", ".", "L", "O", "0", "#", "@"];
+
+    // White theme
+    //let character_set : [&str; 12] = ["@", "#", "0" , "O", "L", ".", ";", ":", ".", ",", "'", " "];
 
     let mut art = String::new();
     let mut last_y = 0;
@@ -36,7 +39,7 @@ fn main() {
         let character_position = ((brightness/255.0) * (character_set.len()  - 1) as f64 ).round() as usize;
         art.push_str(character_set[character_position]);
     }
-    fs::write("assk.txt", art.as_bytes()).unwrap();
+    fs::write("assk-black.txt", art.as_bytes()).unwrap();
 
     print!("{}", art);
 
