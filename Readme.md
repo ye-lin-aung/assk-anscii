@@ -29,4 +29,5 @@ curl https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/assk-black
 ### Black Background
 ![Black](https://raw.githubusercontent.com/ye-lin-aung/assk-anscii/master/img/black.png "Black")
 
+You can see image are abit slender. This is due to character spacing. Playing around with different characters for each shade will provide better results. 
 
